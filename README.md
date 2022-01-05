@@ -7,6 +7,8 @@
 
 _**Abstract**_
 
+_**Italian**_
+
 L’obiettivo di tale progetto è stato quello di indagare l’evento creato e promosso dalla British Broadcasting Corporation (BBC) denominato #BBC100Women, 
 che si sostanzia con la pubblicazione annuale di una lista delle 100 donne più ispiratrici ed influenti, provenienti da ogni angolo del mondo.
 Tale evento ha il fine di sensibilizzare la comunità mondiale intera, tanto maschile che femminile,
@@ -21,6 +23,18 @@ Monetary Fund.
 Per lo svolgimento del progetto sono stati implementati script in Python 3.9 sfruttando la libreria
 Twint e il software Tableau, che ha permesso di creare infografiche che evidenziassero insights
 dettagliati e di semplice comprensione dei risultati.
+
+*Keywords*: Twitter, Twint, Python, Kafka, Nifi, MongoDB, Tableau, DataManagement, DataVisualization.
+
+***
+
+_**Abstract**_
+
+_**English**_
+
+The aim of this project was to investigate the event created and promoted by the British Broadcasting Corporation (BBC) called #BBC100Women, which takes the form of the annual publication of a list of the 100 most inspiring and influential women from every corner of the world. The aim of the event is to raise awareness among the entire global community, both male and female, of the ever-increasing importance of the role of women in today's societies and to break away from the clichés of women as inferior to their male counterparts. The project in question aims to study the list of women from different facets, analysing its media impact, its composition in terms of the types of women awarded and the countries from which they come. To do this, data was gathered from different sources: the social network Twitter, the different BBC websites about the event, the web addresses of major international institutions such as the International Monetary Fund. To carry out the project, scripts were implemented in Python 3.9 using the Twint library and Tableau software, which made it possible to create infographics highlighting detailed insights and easy-to-understand results.
+
+Keywords: Twitter, Twint, Python, Kafka, Nifi, MongoDB, Tableau, DataManagement, DataVisualization.
 
 *Keywords*: Twitter, Twint, Python, Kafka, Nifi, MongoDB, Tableau, DataManagement, DataVisualization.
 

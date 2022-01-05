@@ -1,5 +1,6 @@
 # BBC 100 Women Project 
 *Progetto del corso Data Management & Data Visualization (Laurea magistrale Data Science)*
+
 *Course project Data Management & Data Visualization (Master of Science in Data Science)*
 
 <p align="center">
@@ -34,8 +35,6 @@ _**Abstract**_
 _**English**_
 
 The aim of this project was to investigate the event created and promoted by the British Broadcasting Corporation (BBC) called #BBC100Women, which takes the form of the annual publication of a list of the 100 most inspiring and influential women from every corner of the world. The aim of the event is to raise awareness among the entire global community, both male and female, of the ever-increasing importance of the role of women in today's societies and to break away from the clichés of women as inferior to their male counterparts. The project in question aims to study the list of women from different facets, analysing its media impact, its composition in terms of the types of women awarded and the countries from which they come. To do this, data was gathered from different sources: the social network Twitter, the different BBC websites about the event, the web addresses of major international institutions such as the International Monetary Fund. To carry out the project, scripts were implemented in Python 3.9 using the Twint library and Tableau software, which made it possible to create infographics highlighting detailed insights and easy-to-understand results.
-
-Keywords: Twitter, Twint, Python, Kafka, Nifi, MongoDB, Tableau, DataManagement, DataVisualization.
 
 *Keywords*: Twitter, Twint, Python, Kafka, Nifi, MongoDB, Tableau, DataManagement, DataVisualization.
 

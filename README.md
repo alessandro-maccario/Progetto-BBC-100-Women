@@ -1,5 +1,6 @@
 # BBC 100 Women Project 
 *Progetto del corso Data Management & Data Visualization (Laurea magistrale Data Science)*
+*Course project Data Management & Data Visualization (Master of Science in Data Science)*
 
 <p align="center">
   <img width="450" height="300" src="https://ichef.bbci.co.uk/news/640/cpsprodpb/10AB1/production/_109237286_100_women_v2_976-nc.png">
